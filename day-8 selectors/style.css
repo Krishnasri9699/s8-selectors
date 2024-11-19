@@ -1,0 +1,40 @@
+img{
+    width: 300px;
+    border-radius: 30px;
+}
+.MIPlayer{
+    background-color: blue;
+    border-radius: 35px;
+}
+.CSKPlayer{
+    background-color: red;
+
+}
+
+.shadow{
+    box-shadow: 10px 10px 10px brown;
+}
+
+
+
+.SRHPlayer{
+    background-color: orange;
+}
+#bumrah{
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px black;
+   /* background-color: brown;*/
+}
+
+p{
+    background-color: aqua;
+    color: black;
+}
+.impPara{
+    background-color: aquamarine;
+    color: brown;
+}
+#lastPara{
+    background-color: palevioletred;
+}
